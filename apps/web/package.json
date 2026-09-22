@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "cross-env NODE_OPTIONS=--max-old-space-size=4096 tsc && vite build",
+    "build": "cross-env NODE_OPTIONS=--max-old-space-size=4096 tsc && vite build && node -e \"const fs=require('fs'); if(fs.existsSync('apps/web')) { fs.cpSync('dist', 'apps/web/dist', {recursive:true}); }\"",
     "preview": "vite preview"
   },
   "dependencies": {
