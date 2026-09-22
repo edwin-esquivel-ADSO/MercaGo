@@ -8,6 +8,7 @@
 ### INTEGRANTES:
 * **Edwin Alejandro Esquivel Bahamon**
 * **Jose Esneider Covaleda Hortua**
+* **Paula Sofia Claros Nañez**
 * **Joseph Felipe Aguirre Churta**
 
 ### INSTRUCTOR:
@@ -27,6 +28,7 @@
 | :--- | :--- | :--- | :--- |
 | **1.0** | 18/06/2026 | Covaleda / Esquivel / Aguirre | Versión inicial del SRS. |
 | **1.1** | 01/07/2026 | Covaleda / Esquivel / Aguirre | Requerimientos Funcionales (RF), Requerimientos No Funcionales (RNF), Casos de Uso y ajuste de especificaciones de arquitectura. |
+| **1.2** | 22/09/2026 | Esquivel / Covaleda / Claros / Aguirre | Incorporación formal de Paula Sofia Claros Nañez al equipo de trabajo, asignación de roles de revisión integral de procesos/UI y creación de bitácora de auditoría. |
 
 ---
 
@@ -130,9 +132,10 @@ La plataforma estará disponible mediante una aplicación web responsiva y una a
 
 | Nombre | Rol | Categoría Profesional | Responsabilidad | Información de Contacto |
 | :--- | :--- | :--- | :--- | :--- |
-| **Edwin Alejandro Esquivel Bahamon** | Líder del Proyecto | Aprendiz del tecnólogo en análisis y desarrollo software | Definir requerimientos del negocio | `esquivel202414@gmail.com` |
-| **Jose Esneider Covaleda Hortua** | Full-Stack | Aprendiz del tecnólogo en análisis y desarrollo software | Implementar lógica del sistema | `josecovaleda.fisica2024@gmail.com` |
-| **Joseph Felipe Aguirre Churta** | Full-Stack | Aprendiz del tecnólogo en análisis y desarrollo software | Diseñar experiencia de usuario (UX/UI) | `joseph.churta2009@gmail.com` |
+| **Edwin Alejandro Esquivel Bahamon** | Líder del Proyecto | Aprendiz del tecnólogo en análisis y desarrollo software | Lógica de negocio, arquitectura y funcionalidad del sistema | `esquivel202414@gmail.com` |
+| **Jose Esneider Covaleda Hortua** | Full-Stack | Aprendiz del tecnólogo en análisis y desarrollo software | Lógica de negocio, backend y persistencia relacional | `josecovaleda.fisica2024@gmail.com` |
+| **Paula Sofia Claros Nañez** | QA / Auditora de Procesos | Aprendiz del tecnólogo en análisis y desarrollo software | Revisión de botones, procesos del sistema y propuestas de mejora | `Paulaclaros08@gmail.com` |
+| **Joseph Felipe Aguirre Churta** | Full-Stack / UI-UX | Aprendiz del tecnólogo en análisis y desarrollo software | Diseño de experiencia (UX/UI), interacción y componentes visuales | `joseph.churta2009@gmail.com` |
 | **Usuario final** | Comprador / Cliente | Persona natural que busca ofertas y gestiona compras | Buscar productos y ofertas, gestionar canasta unificada, realizar pedidos y seguimiento | `soporte@mercago.com` |
 | **Administrador de la plataforma** | Administrador / Soporte | Personal técnico encargado de la operación y soporte | Gestionar incidencias, garantizar disponibilidad, auditar bitácora y administrar comercios | `soporte@mercago.com` |
 | **Analista de datos** | Analista / BI | Profesional de análisis de información comercial | Analizar métricas de uso, comportamiento de compra y reportes | `soporte@mercago.com` |

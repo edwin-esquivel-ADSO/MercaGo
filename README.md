@@ -152,12 +152,25 @@ El proyecto incluye archivos [`vercel.json`](./vercel.json) preconfigurados para
 
 ---
 
-## 👥 Equipo de Desarrollo (SENA ADSO — Ficha 3413974)
+## 👥 Equipo de Desarrollo y Roles (SENA ADSO — Ficha 3413974)
 
 * **Edwin Alejandro Esquivel Bahamon** — *Líder del Proyecto & Requerimientos de Negocio* (`esquivel202414@gmail.com`)
 * **Jose Esneider Covaleda Hortua** — *Desarrollador Full-Stack & Lógica de Sistema* (`josecovaleda.fisica2024@gmail.com`)
+* **Paula Sofia Claros Nañez** — *Auditora de Procesos, Revisión de Botones & QA* (`Paulaclaros08@gmail.com`)
 * **Joseph Felipe Aguirre Churta** — *Desarrollador Full-Stack & Diseño de Experiencia UX/UI* (`joseph.churta2009@gmail.com`)
 * **Paula Sofia Claros Nañez** — *Desarrolladora Full-Stack* (`Paulaclaros@gmail.com`)
+
+### 📌 Asignación de Responsabilidades Técnicas
+* **⚙️ Lógica y Funcionalidad de la Idea:**  
+  **Edwin Esquivel** y **Jose Covaleda** están a cargo de la arquitectura general, diseño y desarrollo de la lógica de negocio, controladores de backend, integración con Neon DB y las reglas de funcionamiento de la plataforma.
+* **🔍 Revisión de Botones, Procesos y Propuestas de Mejora:**  
+  **Paula Claros** y **Joseph Aguirre** están a cargo de la auditoría y control de calidad de todos los botones, controles interactivos, navegación, formularios y flujos de usuario de MercaGo, así como de documentar propuestas de mejora visual y funcional.
+
+### 📑 Documentación de Contexto y Bitácora de Revisiones
+Para entender a fondo el sistema y realizar el seguimiento de mejoras:
+1. **Contexto General y Arquitectura:** Disponible en este mismo archivo [`README.md`](./README.md).
+2. **Especificación Completa de Requisitos (SRS):** Consulta [`Proyecto MercaGo - SRS.md`](./Proyecto%20MercaGo%20-%20SRS.md) o [`SRS.md`](./SRS.md) para ver los 10 módulos funcionales (RF1-RF20), requerimientos no funcionales y casos de uso.
+3. **Bitácora de Revisiones y Auditoría:** La **primera revisión integral** del sistema y las revisiones sucesivas quedan formalmente documentadas en [`docs/REVISION_SISTEMA_MERCAGO.md`](./docs/REVISION_SISTEMA_MERCAGO.md).
 
 **Instructor Guía:** Juan Carlos Rodriguez Losada  
 **Institución:** Servicio Nacional de Aprendizaje (SENA) — 2026
