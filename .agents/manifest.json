@@ -1,0 +1,36 @@
+{
+  "name": "mercago-monolith-governance",
+  "version": "1.0.0",
+  "framework": "Monolith Governance Framework",
+  "stack": {
+    "runtime": "Node.js",
+    "language": "TypeScript",
+    "backend": "Express.js",
+    "web": "React + Vite",
+    "mobile": "React Native + Expo",
+    "database": "PostgreSQL (Neon DB) + Prisma ORM",
+    "storage": "Cloudinary",
+    "hosting": "Vercel"
+  },
+  "roles": [
+    { "id": "A00", "name": "Orchestrator & Tech Lead", "file": "roles/A00-orchestrator-techlead.md" },
+    { "id": "A03", "name": "PM / UI-UX Integrator", "file": "roles/A03-a05-pm-ui-ux.md" },
+    { "id": "A04", "name": "Security-Architect & AppSec", "file": "roles/A04-a12-security-appsec.md" },
+    { "id": "A07", "name": "Backend Engineer", "file": "roles/A07-backend-engineer.md" },
+    { "id": "A08", "name": "Frontend Web Developer", "file": "roles/A08-frontend-web.md" },
+    { "id": "A08m", "name": "Frontend Mobile Developer", "file": "roles/A08m-frontend-mobile.md" },
+    { "id": "A10", "name": "Database Master", "file": "roles/A10-a13-database-master.md" },
+    { "id": "A09", "name": "QA & DevOps", "file": "roles/A09-a11-qa-devops.md" }
+  ],
+  "boundaries": {
+    "web": "apps/web",
+    "mobile": "apps/mobile",
+    "backend": "packages/backend",
+    "database": "packages/database",
+    "docs": "docs"
+  },
+  "rules": [
+    "rules/monolith-governance.md",
+    "rules/security-appsec.md"
+  ]
+}
