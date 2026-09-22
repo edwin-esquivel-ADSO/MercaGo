@@ -157,6 +157,7 @@ El proyecto incluye archivos [`vercel.json`](./vercel.json) preconfigurados para
 * **Edwin Alejandro Esquivel Bahamon** — *Líder del Proyecto & Requerimientos de Negocio* (`esquivel202414@gmail.com`)
 * **Jose Esneider Covaleda Hortua** — *Desarrollador Full-Stack & Lógica de Sistema* (`josecovaleda.fisica2024@gmail.com`)
 * **Joseph Felipe Aguirre Churta** — *Desarrollador Full-Stack & Diseño de Experiencia UX/UI* (`joseph.churta2009@gmail.com`)
+* **Paula Sofia Claros Nañez** — *Desarrolladora Full-Stack* (`Paulaclaros@gmail.com`)
 
 **Instructor Guía:** Juan Carlos Rodriguez Losada  
 **Institución:** Servicio Nacional de Aprendizaje (SENA) — 2026
